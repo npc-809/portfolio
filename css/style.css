@@ -5,17 +5,17 @@
 }
 
 body {
-    font-family: "Cedarville Cursive", cursive;
-    background: #f4f4f4;
-    color: #333;
+    font-family: "UnifrakturCook", serif;
+    background: #f0f0f0;
+    color: #222;
     padding: 20px;
-    font-size: 20px;
+    font-size: 22px;
 }
 
 header {
     text-align: center;
     padding: 20px;
-    background: #222;
+    background: #111;
     color: white;
     margin-bottom: 20px;
 }
@@ -33,13 +33,14 @@ nav ul li a {
     color: white;
     text-decoration: none;
     padding: 0 15px;
-    font-size: 22px;
+    font-size: 24px;
 }
 
 section {
     background: white;
     padding: 20px;
     margin-bottom: 20px;
+    border: 1px solid #ccc;
 }
 
 form {
@@ -50,21 +51,22 @@ form {
 
 input, textarea {
     padding: 12px;
-    border: 1px solid #bbb;
-    font-family: "Cedarville Cursive", cursive;
+    border: 1px solid #aaa;
+    font-family: "UnifrakturCook", serif;
+    font-size: 20px;
 }
 
 button {
     padding: 12px;
-    background: #222;
+    background: #111;
     color: white;
     border: none;
     cursor: pointer;
-    font-family: "Cedarville Cursive", cursive;
+    font-family: "UnifrakturCook", serif;
 }
 
 footer {
     text-align: center;
     margin-top: 20px;
-    color: #777;
+    color: #555;
 }
